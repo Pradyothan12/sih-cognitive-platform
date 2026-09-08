@@ -1,0 +1,57 @@
+[
+  {
+    "logId": "persistence_test_001",
+    "patientId": "patient_001",
+    "gameType": "visual_memory_ner",
+    "reactionTimeMs": 1200,
+    "accuracyScore": 1
+  },
+  {
+    "log_id": "ef234ad9-a748-457c-97cc-571bb4922a37",
+    "patient_id": "patient_001",
+    "game_type": "visual_memory_ner",
+    "difficulty_level": 1,
+    "reaction_time_ms": 1954,
+    "accuracy_score": 1,
+    "hesitation_count": 0,
+    "cognitive_fatigue_index": 0.05,
+    "played_at": "2026-09-07T22:20:11.637700",
+    "sync_status": 0
+  },
+  {
+    "log_id": "611444e0-2f3d-4274-897a-1c6e8dae4d99",
+    "patient_id": "patient_001",
+    "game_type": "visual_memory_ner",
+    "difficulty_level": 1,
+    "reaction_time_ms": 10167,
+    "accuracy_score": 1,
+    "hesitation_count": 0,
+    "cognitive_fatigue_index": 0.3,
+    "played_at": "2026-09-08T03:31:24.964212",
+    "sync_status": 0
+  },
+  {
+    "log_id": "bd65b296-eb75-40d6-b4f4-a623e41324de",
+    "patient_id": "patient_001",
+    "game_type": "visual_memory_ner",
+    "difficulty_level": 1,
+    "reaction_time_ms": 4628,
+    "accuracy_score": 1,
+    "hesitation_count": 0,
+    "cognitive_fatigue_index": 0.3,
+    "played_at": "2026-09-08T03:31:30.466804",
+    "sync_status": 0
+  },
+  {
+    "log_id": "f1d1bb6a-7d54-42cb-96ca-fd49e9e1cf2c",
+    "patient_id": "patient_001",
+    "game_type": "visual_memory_ner",
+    "difficulty_level": 2,
+    "reaction_time_ms": 1786,
+    "accuracy_score": 1,
+    "hesitation_count": 0,
+    "cognitive_fatigue_index": 0.05,
+    "played_at": "2026-09-08T03:36:13.445132",
+    "sync_status": 0
+  }
+]

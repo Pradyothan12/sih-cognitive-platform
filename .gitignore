@@ -1,0 +1,29 @@
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+
+# Android
+**/.gradle/
+**/local.properties
+**/captures/
+**/key.properties
+
+# Node
+**/node_modules/
+**/npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/

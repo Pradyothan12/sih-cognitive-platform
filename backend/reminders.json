@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1788798666576",
+    "patientId": "patient_001",
+    "title": "Morning Medicine",
+    "type": "Medicine",
+    "date": "2026-09-08",
+    "time": "08:00",
+    "repeat": "Daily",
+    "notes": "Take after breakfast",
+    "completed": false,
+    "createdAt": "2026-09-07T16:31:06.576Z"
+  },
+  {
+    "id": "1788799893920",
+    "patientId": "patient_001",
+    "title": "Afternoon Medicine",
+    "type": "Medicine",
+    "date": "2026-09-08",
+    "time": "12:00",
+    "repeat": "Once",
+    "notes": "Take after lunch",
+    "completed": false,
+    "createdAt": "2026-09-07T16:51:33.920Z"
+  }
+]
