@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ReminderService {
-  static const String baseUrl = 'http://192.168.29.32:5001';
+  static const String baseUrl = 'https://sih-cognitive-backend.onrender.com';
 
   Future<List<Map<String, dynamic>>> getReminders(
     String patientId,
